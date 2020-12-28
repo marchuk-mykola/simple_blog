@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.marchuk.test.core.presentation.views.PostView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/postView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" />

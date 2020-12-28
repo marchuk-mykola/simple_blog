@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Blog</string>
+    <string name="error_message">Error Occured.\nTry again later</string>
+    <string name="retry">Retry</string>
+</resources>
